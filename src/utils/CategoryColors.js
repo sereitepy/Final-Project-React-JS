@@ -1,0 +1,1 @@
+export const CategoryColors = ["bg-[#4c00b0]", "bg-[#ff6e00]", "bg-[#e50914]"];
